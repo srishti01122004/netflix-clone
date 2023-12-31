@@ -17,11 +17,11 @@ A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepag
 - HTML
 - CSS
 - Vanilla JS - ES6
-- [Awesomeness](https://www.wikihow.com/Love-Programming) - Strictly for the love of coding :-)
+
 
 ## What it does
 
-- Look pretty, that's about it :-)
+- Practice the basics of web development
 
 ## Learning Points
 
@@ -59,7 +59,7 @@ function removeShow() {
 tabItems.forEach(item => item.addEventListener("click", selectItem));
 ```
 
-And for the HTML All you really need is this:
+And for the HTML :
 
 ```html
 <!-- Content Pretty Long so I'll add later -->
@@ -74,21 +74,16 @@ And for the HTML All you really need is this:
 tab content for each selector -->
 ```
 
-> Also (Just a thought), You could advance this by adding some animations to the selector borders etc.
+> Also , You could advance this by adding some animations to the selector borders etc.
 
 ## Features in Development
 
-I might add the other pages on the Netflix website if I ever come back to refactor ^-^
+Other pages can be added 
 
 ## Contribution
 
 Contributions are highly welcome. Feel free to fork, clone, make pull requests, report issues etc.
 
-## Acknowledgments
-
-- Many thanks to [@bradtraversy](https://github.com/bradtraversy) for his awesome courses - _i will not fail you sensei_
-- Thanks to [@torvalds](https://github.com/torvalds) For Making the world a better place
-- And To anyone reading this... _You're awesome!_
 
 That being said
-_<p align="center">To the Front... to the Back... End to End... cut no slack. Making ends meet. lol</p>_
+_<p align="center">To the Front... to the Back... End to End... cut no slack. Making ends meet. _
