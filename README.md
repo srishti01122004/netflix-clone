@@ -85,5 +85,4 @@ Other pages can be added
 Contributions are highly welcome. Feel free to fork, clone, make pull requests, report issues etc.
 
 
-That being said
-_<p align="center">To the Front... to the Back... End to End... cut no slack. Making ends meet. _
+
